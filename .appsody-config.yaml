@@ -1,3 +1,4 @@
 apiVersion: appsody.dev/v1beta1
+kind: AppsodyApplication
 project-name: appsody-sample-springboot
 stack: kabanero/java-spring-boot2:0.3
