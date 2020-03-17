@@ -8,6 +8,6 @@ public class ExampleEndpoint {
 
     @RequestMapping("/starter/hello")
     public String example() {
-        return "Hello Dempe2we World";
+        return "Hello through webhook";
     }
 }
