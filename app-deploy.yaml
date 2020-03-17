@@ -50,7 +50,7 @@ metadata:
     image.opencontainers.org/title: appsody-sample-springboot
     stack.appsody.dev/id: java-spring-boot2
     stack.appsody.dev/version: 0.3.24
-  name: appsody-sample-springboott
+  name: appsody-sample-springboot
   namespace: kabanero
 spec:
   applicationImage: dev.local/appsody-sample-springboot
